@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package paqueteuno;
+package paquete001;
 
 /**
  *
@@ -46,8 +46,6 @@ public class FacturaTelefono {
     
     public double obtenerValorFactura(){
         return valorFactura;
-    }
-    
-    
+    }  
     
 }
